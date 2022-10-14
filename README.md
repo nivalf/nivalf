@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **Robotics**
 
-- 📫 How to reach me **flavinleejohn@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/flavinlj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="flavinlj" height="30" width="40" /></a>
